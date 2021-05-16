@@ -28,7 +28,11 @@ You can click the Preview link to take a look at your changes.
 
 ### Certifiaction
 
-- Microsoft Azure ([Azure Data Fundanetals](https://www.credly.com/badges/3a6f36b5-fa67-4cd5-8303-8bb1931f8752))
+- Microsoft Azure ([DP - 900 Azure Data Fundanetals](https://www.credly.com/badges/3a6f36b5-fa67-4cd5-8303-8bb1931f8752))
+- Coursera ([DeepLearning.AI TensorFlow Developer](https://coursera.org/share/f2d8876475a56157bc094fad21c15086))
+- Edex: 
+  - ([DAT101x: Introduction to Data Science](https://courses.edx.org/certificates/3237a55cf9db4701a8f4c11cebc42230))
+  - ([DAT201x: Querying Data with Transact-SQL](https://courses.edx.org/certificates/018b24b81e5c4bedbca88abe359c9de9))
 
 ### Languages 🌐
 
