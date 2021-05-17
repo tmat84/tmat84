@@ -1,3 +1,6 @@
+[![Build Status](https://travis-ci.com/tmat84/ETL_Pipeline.svg?branch=main)](https://travis-ci.com/tmat84/ETL_Pipeline)
+[![codecov](https://codecov.io/gh/tmat84/ETL_Pipeline/branch/main/graph/badge.svg)](https://codecov.io/gh/tmat84/ETL_Pipeline)
+
 # Hi everyone :wave:
 I'm a RPA developer from the Poland, 
 - 👀 I’m interested in ...
@@ -10,6 +13,7 @@ I'm a RPA developer from the Poland,
   - NoSQL Databases (MongoDB, Apache Cassandra)
 - 📫 How to reach me ...
 [[Linkedin: Tomasz_Matczak]](http://www.linkedin.com/pub/tomasz-matczak/78/970/489)
+
 
 ## Quick overview
 * GitHub stats:  
