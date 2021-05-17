@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.com/tmat84/ETL_Pipeline.svg?branch=main)](https://travis-ci.com/tmat84/ETL_Pipeline)
-[![codecov](https://codecov.io/gh/tmat84/ETL_Pipeline/branch/main/graph/badge.svg)](https://codecov.io/gh/tmat84/ETL_Pipeline)
-
 # Hi everyone :wave:
 I'm a RPA developer from the Poland, 
 - 👀 I’m interested in ...
